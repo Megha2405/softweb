@@ -1,5 +1,5 @@
 # Ex.06 Restuarant Website
-## Date:
+## Date:24/02/2026
 
 ## AIM:
 To develop a static Resturant website to display the menu and services provided by the resturant.
