@@ -793,12 +793,13 @@ input, select {
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2026-02-24 214652.png>)
-![alt text](<Screenshot 2026-02-24 214712.png>)
-![alt text](<Screenshot 2026-02-24 214753.png>)
-![alt text](<Screenshot 2026-02-24 214813.png>)
-![alt text](<Screenshot 2026-02-24 214827.png>)
-![alt text](<Screenshot 2026-02-24 214837.png>)
 
+
+![Screenshot](Screenshot 2026-02-24 214652.png)
+![Screenshot](Screenshot 2026-02-24 214712.png)
+![Screenshot](Screenshot 2026-02-24 214753.png)
+![Screenshot](Screenshot 2026-02-24 214813.png)
+![Screenshot](Screenshot 2026-02-24 214827.png)
+![Screenshot](Screenshot 2026-02-24 214837.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
